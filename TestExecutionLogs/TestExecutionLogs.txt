@@ -1,0 +1,1576 @@
+
+0    [main] INFO  INFO  - ****Execution for Soso started****
+480  [main] INFO  INFO  - soso favicon verification is done successfully....continuing test
+3620 [main] INFO  INFO  - soso home page footer verification is done successfully....continuing test
+6430 [main] INFO  INFO  - Search for software testing webpages is done successfully....continuing test
+25315 [main] INFO  INFO  - Search result page verification is done successfully....continuing test
+28111 [main] INFO  INFO  - Click login is done successfully....continuing test
+41610 [main] INFO  INFO  - Login logo verification is done successfully....continuing test
+44376 [main] INFO  INFO  - Click Mobile account login link is done successfully....continuing test
+57870 [main] INFO  INFO  - Mobile account login popup logo verification is done successfully....continuing test
+60680 [main] INFO  INFO  - Enter mobile number is done successfully....continuing test
+74589 [main] INFO  INFO  - Mobile number entry is done successfully....continuing test
+82187 [main] INFO  INFO  - Search result page verification post ALT+Left is done successfully....continuing test
+84971 [main] INFO  INFO  - Randon click on screen is done successfully....continuing test
+102476 [main] INFO  INFO  - Verify footer is done successfully....continuing test
+109082 [main] INFO  INFO  - soso favicon verification is done successfully....continuing test
+111887 [main] INFO  INFO  - soso logo with search options verification is done successfully....continuing test
+114722 [main] INFO  INFO  - Click English for translation is done successfully....continuing test
+129229 [main] INFO  INFO  - Software Testing- english translated search result page verification is done successfully....continuing test
+135911 [main] INFO  INFO  - soso logo with search options verification post mouse right click is done successfully....continuing test
+138762 [main] INFO  INFO  - Click News is done successfully....continuing test
+153095 [main] INFO  INFO  - soso favicon verification is done successfully....continuing test
+155909 [main] INFO  INFO  - Search results for news article is done successfully....continuing test
+158488 [main] INFO  INFO  - ****Execution for the current Test Case: Soso Completed****
+201763 [main] INFO  INFO  - ****Execution for ? WordPress.com: Create a free website or blog started****
+201768 [main] INFO  INFO  - WordPress navigation is done successfully....continuing test
+201968 [main] INFO  INFO  - Verification of Wordpress favicon is done successfully....continuing test
+204745 [main] INFO  INFO  - Verify Wordpress Logo is done successfully....continuing test
+207502 [main] INFO  INFO  - Click on Login Link is done successfully....continuing test
+240723 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+240723 [main] ERROR ERROR  - Logging into Wordpress failed....stopping test
+260770 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+261249 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? started****
+307  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+308  [main] ERROR ERROR  - Wikipedia navigation is failed....stoping test
+308  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+503  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Wikipedia started****
+21   [main] INFO  INFO  - Wikipedia navigation is done successfully....continuing test
+4477 [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+7299 [main] INFO  INFO  - Verify Wikipedia home page landing is done successfully....continuing test
+10059 [main] INFO  INFO  - Wikipedia Language Selection found successfully is done successfully....continuing test
+13875 [main] INFO  INFO  - Verify tooltip appearance is done successfully....continuing test
+16647 [main] INFO  INFO  - Polski language selected is done successfully....continuing test
+31998 [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+34622 [main] INFO  INFO  - wolna navigation is done successfully....continuing test
+72901 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+72901 [main] ERROR ERROR  - Verify Wikipedia favicon failed....stopping test
+92932 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+93078 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Wikipedia started****
+18   [main] INFO  INFO  - Wikipedia navigation is done successfully....continuing test
+395  [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+3288 [main] INFO  INFO  - Verify Wikipedia home page landing is done successfully....continuing test
+6195 [main] INFO  INFO  - Wikipedia Language Selection found successfully is done successfully....continuing test
+10052 [main] INFO  INFO  - Verify tooltip appearance is done successfully....continuing test
+12609 [main] INFO  INFO  - Polski language selected is done successfully....continuing test
+27958 [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+30543 [main] INFO  INFO  - wolna navigation is done successfully....continuing test
+48645 [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+51561 [main] INFO  INFO  - Text typed is done successfully....continuing test
+73643 [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+80567 [main] INFO  INFO  - Select all is done successfully....continuing test
+83150 [main] INFO  INFO  - ****Execution for the current Test Case: Wikipedia Completed****
+0    [main] INFO  INFO  - ****Execution for ? Wikipedia started****
+10   [main] INFO  INFO  - Wikipedia navigation is done successfully....continuing test
+181  [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+3003 [main] INFO  INFO  - Verify Wikipedia home page landing is done successfully....continuing test
+5772 [main] INFO  INFO  - Wikipedia Language Selection found successfully is done successfully....continuing test
+10016 [main] INFO  INFO  - Verify tooltip appearance is done successfully....continuing test
+12746 [main] INFO  INFO  - Polski language selected is done successfully....continuing test
+28098 [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+30723 [main] INFO  INFO  - wolna navigation is done successfully....continuing test
+54888 [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+77908 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+77909 [main] ERROR ERROR  - Text typed failed....stopping test
+98127 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+98320 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Wikipedia started****
+16   [main] INFO  INFO  - Wikipedia navigation is done successfully....continuing test
+298  [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+3171 [main] INFO  INFO  - Verify Wikipedia home page landing is done successfully....continuing test
+6011 [main] INFO  INFO  - Wikipedia Language Selection found successfully is done successfully....continuing test
+10150 [main] INFO  INFO  - Verify tooltip appearance is done successfully....continuing test
+12891 [main] INFO  INFO  - Polski language selected is done successfully....continuing test
+28259 [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+30924 [main] INFO  INFO  - wolna navigation is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Wikipedia started****
+24   [main] INFO  INFO  - Wikipedia navigation is done successfully....continuing test
+349  [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+3185 [main] INFO  INFO  - Verify Wikipedia home page landing is done successfully....continuing test
+5995 [main] INFO  INFO  - Wikipedia Language Selection found successfully is done successfully....continuing test
+10521 [main] INFO  INFO  - Verify tooltip appearance is done successfully....continuing test
+13319 [main] INFO  INFO  - Polski language selected is done successfully....continuing test
+28655 [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+31269 [main] INFO  INFO  - wolna navigation is done successfully....continuing test
+49442 [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+52170 [main] INFO  INFO  - Text typed is done successfully....continuing test
+74238 [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+81526 [main] INFO  INFO  - Select all is done successfully....continuing test
+84155 [main] INFO  INFO  - ****Execution for the current Test Case: Wikipedia Completed****
+0    [main] INFO  INFO  - ****Execution for ? Isla start page started****
+254  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+255  [main] ERROR ERROR  - Google navigation is failed....stoping test
+255  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+394  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Isla start page started****
+226  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+226  [main] ERROR ERROR  - Google navigation is failed....stoping test
+226  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+349  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Isla start page started****
+277  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+277  [main] ERROR ERROR  - Google navigation is failed....stoping test
+277  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+426  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+27   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+354  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3193 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+37080 [main] INFO  INFO  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consectetur ipsum ac ex fringilla commodo. Nam rutrum ipsum lacus, nec pulvinar nisi iaculis ac. Sed quis egestas justo, eget posuere turpis. Phasellus consectetur posuere dapibus. Phasellus vel ultrices erat. Mauris non vestibulum neque. Etiam vitae consectetur quam. In pretium malesuada elit sed aliquet. navigation is done successfully....continuing test
+37138 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+39985 [main] INFO  INFO  - Google options is done successfully....continuing test
+44999 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPasteGoogle Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+25   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+241  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3179 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+36940 [main] INFO  INFO  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consectetur ipsum ac ex fringilla commodo. Nam rutrum ipsum lacus, nec pulvinar nisi iaculis ac. Sed quis egestas justo, eget posuere turpis. Phasellus consectetur posuere dapibus. Phasellus vel ultrices erat. Mauris non vestibulum neque. Etiam vitae consectetur quam. In pretium malesuada elit sed aliquet. navigation is done successfully....continuing test
+37004 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+39801 [main] INFO  INFO  - Google options is done successfully....continuing test
+44521 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPasteGoogle Completed****
+0    [main] INFO  INFO  - ****Execution for ? started****
+217  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+218  [main] ERROR ERROR  - Google navigation is failed....stoping test
+218  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+344  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+22   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+364  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3004 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+3230 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+19   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+378  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3077 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+3318 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+21   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+320  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+2958 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+3161 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+28   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+397  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+15108 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+15   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+411  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+15032 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+31   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+403  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+15081 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+24   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+317  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+17192 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+17   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+326  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+20116 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+19   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+365  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+20448 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+1    [main] INFO  INFO  - ****Execution for ? Google started****
+26   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+386  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+20136 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+19   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+379  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+20108 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+17   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+288  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+22596 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+19   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+303  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+14766 [main] INFO  INFO  - Paste copied text is done successfully....continuing test
+29444 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+29444 [main] ERROR ERROR  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consectetur ipsum ac ex fringilla commodo. Nam rutrum ipsum lacus, nec pulvinar nisi iaculis ac. Sed quis egestas justo, eget posuere turpis. Phasellus consectetur posuere dapibus. Phasellus vel ultrices erat. Mauris non vestibulum neque. Etiam vitae consectetur quam. In pretium malesuada elit sed aliquet. navigation is failed....stoping test
+29444 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+29577 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+1    [main] INFO  INFO  - ****Execution for ? Isolating Browser Malware started****
+176  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+177  [main] ERROR ERROR  - Google navigation is failed....stoping test
+177  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+300  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+14   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+247  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+14864 [main] INFO  INFO  - Paste copied text is done successfully....continuing test
+29475 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+29475 [main] ERROR ERROR  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consectetur ipsum ac ex fringilla commodo. Nam rutrum ipsum lacus, nec pulvinar nisi iaculis ac. Sed quis egestas justo, eget posuere turpis. Phasellus consectetur posuere dapibus. Phasellus vel ultrices erat. Mauris non vestibulum neque. Etiam vitae consectetur quam. In pretium malesuada elit sed aliquet. navigation is failed....stoping test
+29475 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+29611 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? started****
+199  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+199  [main] ERROR ERROR  - Google navigation is failed....stoping test
+199  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+337  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Isla start page started****
+206  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+206  [main] ERROR ERROR  - Google navigation is failed....stoping test
+206  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+347  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+17   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+262  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+1    [main] INFO  INFO  - ****Execution for ? Google started****
+24   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+478  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+19   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+427  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+15046 [main] INFO  INFO  - Paste copied text is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+18   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+259  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+19   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+316  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Isla start page started****
+331  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+331  [main] ERROR ERROR  - Google navigation is failed....stoping test
+331  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+460  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+24   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+419  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+17172 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+17172 [main] ERROR ERROR  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consectetur ipsum ac ex fringilla commodo. Nam rutrum ipsum lacus, nec pulvinar nisi iaculis ac. Sed quis egestas justo, eget posuere turpis. Phasellus consectetur posuere dapibus. Phasellus vel ultrices erat. Mauris non vestibulum neque. Etiam vitae consectetur quam. In pretium malesuada elit sed aliquet. navigation is failed....stoping test
+17173 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+17389 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for So started****
+371  [main] INFO  INFO  - So favicon verification is done successfully....continuing test
+3288 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+5937 [main] INFO  INFO  - ****Execution for the current Test Case: So Completed****
+0    [main] INFO  INFO  - ****Execution for So started****
+419  [main] INFO  INFO  - So favicon verification is done successfully....continuing test
+3334 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+5900 [main] INFO  INFO  - ****Execution for the current Test Case: So Completed****
+0    [main] INFO  INFO  - ****Execution for So started****
+881  [main] INFO  INFO  - So favicon verification is done successfully....continuing test
+4622 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+8123 [main] INFO  INFO  - Click Wikipedia option is done successfully....continuing test
+17474 [main] INFO  INFO  - ****Execution for the current Test Case: So Completed****
+0    [main] INFO  INFO  - ****Execution for So started****
+313  [main] INFO  INFO  - So favicon verification is done successfully....continuing test
+3266 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+6097 [main] INFO  INFO  - Click Wikipedia option is done successfully....continuing test
+15385 [main] INFO  INFO  - ****Execution for the current Test Case: So Completed****
+0    [main] INFO  INFO  - ****Execution for So started****
+292  [main] INFO  INFO  - So favicon verification is done successfully....continuing test
+3221 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+6008 [main] INFO  INFO  - Click Wikipedia option is done successfully....continuing test
+18534 [main] INFO  INFO  - Wikipedia option click is done successfully....continuing test
+21379 [main] INFO  INFO  - Click Web option is done successfully....continuing test
+34145 [main] INFO  INFO  - Web - 360 navigation is done successfully....continuing test
+36874 [main] INFO  INFO  - Click News is done successfully....continuing test
+53130 [main] INFO  INFO  - News logo is done successfully....continuing test
+55750 [main] INFO  INFO  - ****Execution for the current Test Case: So Completed****
+0    [main] INFO  INFO  - ****Execution for Coccoc started****
+231  [main] INFO  INFO  - Coccoc favicon verification is done successfully....continuing test
+2851 [main] INFO  INFO  - ****Execution for the current Test Case: Coccoc Completed****
+0    [main] INFO  INFO  - ****Execution for Coccoc started****
+319  [main] INFO  INFO  - Coccoc favicon verification is done successfully....continuing test
+3242 [main] INFO  INFO  - Coccoc logo verification is done successfully....continuing test
+20837 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+23639 [main] INFO  INFO  - Click Introduction link is done successfully....continuing test
+37124 [main] INFO  INFO  - Introduction page verification is done successfully....continuing test
+39883 [main] INFO  INFO  - Click home page is done successfully....continuing test
+53285 [main] INFO  INFO  - Coccoc home page link click verification is done successfully....continuing test
+70711 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+73560 [main] INFO  INFO  - Click post an Ad link is done successfully....continuing test
+85853 [main] INFO  INFO  - ****Execution for the current Test Case: Coccoc Completed****
+0    [main] INFO  INFO  - ****Execution for Coccoc started****
+252  [main] INFO  INFO  - Coccoc favicon verification is done successfully....continuing test
+3064 [main] INFO  INFO  - Coccoc logo verification is done successfully....continuing test
+20749 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+23463 [main] INFO  INFO  - Click Introduction link is done successfully....continuing test
+36986 [main] INFO  INFO  - Introduction page verification is done successfully....continuing test
+39731 [main] INFO  INFO  - Click home page is done successfully....continuing test
+53119 [main] INFO  INFO  - Coccoc home page link click verification is done successfully....continuing test
+70544 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+73407 [main] INFO  INFO  - Click post an Ad link is done successfully....continuing test
+89347 [main] INFO  INFO  - Post an ad page logo verification is done successfully....continuing test
+92125 [main] INFO  INFO  - Click Cost and payment link is done successfully....continuing test
+104765 [main] INFO  INFO  - Cash and payment method page verification is done successfully....continuing test
+107342 [main] INFO  INFO  - ****Execution for the current Test Case: Coccoc Completed****
+0    [main] INFO  INFO  - ****Execution for AmazonJP started****
+34   [main] INFO  INFO  - Amazon navigation is done successfully....continuing test
+419  [main] INFO  INFO  - Amazon favicon verification is done successfully....continuing test
+3269 [main] INFO  INFO  - Amazon logo verification is done successfully....continuing test
+5874 [main] INFO  INFO  - ****Execution for the current Test Case: AmazonJP Completed****
+0    [main] INFO  INFO  - ****Execution for AmazonJP started****
+34   [main] INFO  INFO  - Amazon navigation is done successfully....continuing test
+464  [main] INFO  INFO  - Amazon favicon verification is done successfully....continuing test
+3348 [main] INFO  INFO  - Amazon logo verification is done successfully....continuing test
+6322 [main] INFO  INFO  - Mouse hover language select option is done successfully....continuing test
+11009 [main] INFO  INFO  - Mouse hover language select options verification is done successfully....continuing test
+13777 [main] INFO  INFO  - Click select category is done successfully....continuing test
+27312 [main] INFO  INFO  - Beauty category selection is done successfully....continuing test
+37370 [main] INFO  INFO  - Beauty category verification is done successfully....continuing test
+40135 [main] INFO  INFO  - Enter the desired item- Face cream is done successfully....continuing test
+53996 [main] INFO  INFO  - ****Execution for the current Test Case: AmazonJP Completed****
+0    [main] INFO  INFO  - ****Execution for AmazonJP started****
+28   [main] INFO  INFO  - Amazon navigation is done successfully....continuing test
+588  [main] INFO  INFO  - Amazon favicon verification is done successfully....continuing test
+3497 [main] INFO  INFO  - Amazon logo verification is done successfully....continuing test
+6510 [main] INFO  INFO  - Mouse hover language select option is done successfully....continuing test
+11360 [main] INFO  INFO  - Mouse hover language select options verification is done successfully....continuing test
+14179 [main] INFO  INFO  - Click select category is done successfully....continuing test
+27740 [main] INFO  INFO  - Beauty category selection is done successfully....continuing test
+37455 [main] INFO  INFO  - Beauty category verification is done successfully....continuing test
+40314 [main] INFO  INFO  - Enter the desired item- Face cream is done successfully....continuing test
+58275 [main] INFO  INFO  - Searched product- Face cream' results verification is done successfully....continuing test
+60833 [main] INFO  INFO  - ****Execution for the current Test Case: AmazonJP Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+21   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+334  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+17472 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+20076 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.Clipboard Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+23   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+302  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+20142 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+22742 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.Clipboard Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+27   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+312  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+20201 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+22784 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.Clipboard Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+14   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+365  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+19973 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+22589 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.Clipboard Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+21   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+316  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+20260 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+22849 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.Clipboard Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+13   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+226  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+23725 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+26282 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.Clipboard Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+16   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+227  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+23808 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+26378 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.Clipboard Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+23   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+343  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+22994 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25576 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.Clipboard Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+23   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+349  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+15391 [main] INFO  INFO  - Cluck Google Search button is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+24   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+385  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+19860 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+22439 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.LocalToRACCopyKeyBoardShortCutPaste Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+27   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+384  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+11122 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+13735 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.LocalToRACCopyKeyBoardShortCutPaste Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+23   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+357  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3240 [main] INFO  INFO  - Click Google Search button is done successfully....continuing test
+20597 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+23205 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.LocalToRACCopyKeyBoardShortCutPaste Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+21   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+246  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3090 [main] INFO  INFO  - Click Google Search button is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+9    [main] INFO  INFO  - Google navigation is done successfully....continuing test
+204  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+2869 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+3098 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+8    [main] INFO  INFO  - Google navigation is done successfully....continuing test
+221  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3054 [main] INFO  INFO  - Click Google Search button is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+10   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+219  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+2887 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+3072 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+15   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+258  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3170 [main] INFO  INFO  - Click Google Search button is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Isla start page started****
+273  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+273  [main] ERROR ERROR  - Google navigation is failed....stoping test
+273  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+415  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+1    [main] INFO  INFO  - ****Execution for ? Isla start page started****
+248  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+248  [main] ERROR ERROR  - Google navigation is failed....stoping test
+248  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+371  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Isla start page started****
+256  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+256  [main] ERROR ERROR  - Google navigation is failed....stoping test
+256  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+382  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+15   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+362  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+15279 [main] INFO  INFO  - Click Google Search button is done successfully....continuing test
+32603 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+35187 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.LocalToRACCopyMouseRightClickPaste Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+24   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+289  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3255 [main] INFO  INFO  - Click Google Search button is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+23   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+414  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3310 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22627 [main] INFO  INFO  - cyberinc.com navigation is done successfully....continuing test
+22661 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25532 [main] INFO  INFO  - Google options is done successfully....continuing test
+28093 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.RACtoLocalCopyKeyBoardShortCutPaste_Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+33   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+313  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3270 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22267 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25338 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+34629 [main] INFO  INFO  - Google options is done successfully....continuing test
+1    [main] INFO  INFO  - ****Execution for ? Google started****
+22   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+275  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3218 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22199 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25184 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+34516 [main] INFO  INFO  - Google options is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+32   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+359  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3186 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22568 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25476 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+36572 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.RACtoLocalCopyKeyBoardShortCutPaste_Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+11   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+260  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3248 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+23011 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25949 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+36989 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.RACtoLocalCopyKeyBoardShortCutPaste_Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+18   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+362  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3245 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22265 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25241 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+36377 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.RACtoLocalCopyKeyBoardShortCutPaste_Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+21   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+330  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3164 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22149 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+24938 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+36067 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.RACtoLocalCopyKeyBoardShortCutPaste_Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+23   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+308  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3160 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22790 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25690 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+36821 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.RACtoLocalCopyKeyBoardShortCutPaste_Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+19   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+301  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3208 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22216 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+29427 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.RACtoLocalCopyKeyBoardShortCutPaste_Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+16   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+315  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3235 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22679 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25608 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+38252 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.RACtoLocalCopyKeyBoardShortCutPaste_Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+21   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+289  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3131 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22568 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25345 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+36885 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.RACtoLocalCopyKeyBoardShortCutPaste_Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Isla start page started****
+261  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+261  [main] ERROR ERROR  - Google navigation is failed....stoping test
+261  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+403  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+12   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+250  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3094 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22070 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+24871 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+30   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+401  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3525 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22590 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25473 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+19   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+381  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3300 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22843 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25728 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+36913 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.RACtoLocalCopyKeyBoardShortCutPaste_Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+26   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+393  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3567 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22547 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25433 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+33875 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.RACtoLocalCopyKeyBoardShortCutPaste_Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+23   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+307  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3129 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22544 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25354 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+36561 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.RACtoLocalCopyKeyBoardShortCutPaste_Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+30   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+469  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3290 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22352 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25152 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+36762 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.RACtoLocalCopyKeyBoardShortCutPaste_Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+23   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+332  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3304 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22720 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25554 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+36860 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.RACtoLocalCopyKeyBoardShortCutPaste_Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+23   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+467  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3575 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22547 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25500 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+36799 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.Google_RACtoLocalCopyKeyBoardShortCutPaste Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+23   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+363  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3251 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22563 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25412 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+28   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+383  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3261 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22218 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25053 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+57550 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.Google_RACtoLocalCopyMouseShortCutPaste Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+18   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+401  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3481 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22494 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25329 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+51869 [main] INFO  INFO  - Write in Excel is done successfully....continuing test
+53869 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.Google_RACtoLocalCopyMouseShortCutPaste Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+26   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+409  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3379 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22301 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25300 [main] INFO  INFO  - CLicking on left to the Search Result is done successfully....continuing test
+49746 [main] INFO  INFO  - Write in Excel is done successfully....continuing test
+51746 [main] INFO  INFO  - ****Execution for the current Test Case: CopyPaste.Google_RACtoLocalCopyMouseShortCutPaste Completed****
+0    [main] INFO  INFO  - ****Execution for ? started****
+206  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+206  [main] ERROR ERROR  - craigslist navigation is failed....stoping test
+206  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+321  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Isla start page started****
+266  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+266  [main] ERROR ERROR  - Google navigation is failed....stoping test
+266  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+387  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+14   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+5974 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+28980 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+28980 [main] ERROR ERROR  - Google serach box failed....stopping test
+49265 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+49406 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+13   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+2370 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25601 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+25601 [main] ERROR ERROR  - Google search box failed....stopping test
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+14   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+6031 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+14249 [main] INFO  INFO  - cyberinc.com navigation is done successfully....continuing test
+14290 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+17152 [main] INFO  INFO  - Google options is done successfully....continuing test
+19950 [main] INFO  INFO  - Cyberinc.com site check is done successfully....continuing test
+35283 [main] INFO  INFO  - Cyberinc navigation is done successfully....continuing test
+55648 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+55648 [main] ERROR ERROR  - Verify Cyberinc favicon failed....stopping test
+0    [main] INFO  INFO  - ****Execution for ? Slack: Where work happens started****
+19   [main] INFO  INFO  - Slack navigation is done successfully....continuing test
+529  [main] INFO  INFO  - Verify Slack favicon is done successfully....continuing test
+3744 [main] INFO  INFO  - Slack logo on home page verification is done successfully....continuing test
+6489 [main] INFO  INFO  - Click Sign In link is done successfully....continuing test
+21919 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+36930 [main] INFO  INFO  - Unckeck keep me signed in is done successfully....continuing test
+46487 [main] INFO  INFO  - Click Sign in button is done successfully....continuing test
+55823 [main] INFO  INFO  - ****Execution for the current Test Case: Slack Completed****
+0    [main] INFO  INFO  - ****Execution for ? Slack: Where work happens started****
+13   [main] INFO  INFO  - Slack navigation is done successfully....continuing test
+243  [main] INFO  INFO  - Verify Slack favicon is done successfully....continuing test
+3058 [main] INFO  INFO  - Slack logo on home page verification is done successfully....continuing test
+5896 [main] INFO  INFO  - Click Sign In link is done successfully....continuing test
+20811 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+35699 [main] INFO  INFO  - Unckeck keep me signed in is done successfully....continuing test
+45146 [main] INFO  INFO  - Click Sign in button is done successfully....continuing test
+54646 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+54646 [main] ERROR ERROR  - Spikes Slack navigation is failed....stoping test
+54646 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+54806 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Slack: Where work happens started****
+19   [main] INFO  INFO  - Slack navigation is done successfully....continuing test
+6416 [main] INFO  INFO  - Verify Slack favicon is done successfully....continuing test
+9315 [main] INFO  INFO  - Slack logo on home page verification is done successfully....continuing test
+12148 [main] INFO  INFO  - Click Sign In link is done successfully....continuing test
+27923 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+42931 [main] INFO  INFO  - Unckeck keep me signed in is done successfully....continuing test
+52454 [main] INFO  INFO  - Click Sign in button is done successfully....continuing test
+65782 [main] INFO  INFO  - Spikes Slack navigation is done successfully....continuing test
+66670 [main] INFO  INFO  - Click Direct messages is done successfully....continuing test
+76199 [main] INFO  INFO  - Select spikesQA is done successfully....continuing test
+87529 [main] INFO  INFO  - spikesqa navigation is done successfully....continuing test
+87754 [main] INFO  INFO  - spikesQA message window verification is done successfully....continuing test
+91739 [main] INFO  INFO  - ****Execution for the current Test Case: Slack Completed****
+0    [main] INFO  INFO  - ****Execution for ? Slack: Where work happens started****
+23   [main] INFO  INFO  - Slack navigation is done successfully....continuing test
+343  [main] INFO  INFO  - Verify Slack favicon is done successfully....continuing test
+3245 [main] INFO  INFO  - Slack logo on home page verification is done successfully....continuing test
+6035 [main] INFO  INFO  - Click Sign In link is done successfully....continuing test
+21062 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+36139 [main] INFO  INFO  - Unckeck keep me signed in is done successfully....continuing test
+45695 [main] INFO  INFO  - Click Sign in button is done successfully....continuing test
+59007 [main] INFO  INFO  - Spikes Slack navigation is done successfully....continuing test
+59232 [main] INFO  INFO  - Click Direct messages is done successfully....continuing test
+68761 [main] INFO  INFO  - Select spikesQA is done successfully....continuing test
+80078 [main] INFO  INFO  - spikesqa navigation is done successfully....continuing test
+80258 [main] INFO  INFO  - spikesQA message window verification is done successfully....continuing test
+104467 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+104673 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Slack: Where work happens started****
+31   [main] INFO  INFO  - Slack navigation is done successfully....continuing test
+355  [main] INFO  INFO  - Verify Slack favicon is done successfully....continuing test
+3252 [main] INFO  INFO  - Slack logo on home page verification is done successfully....continuing test
+6139 [main] INFO  INFO  - Click Sign In link is done successfully....continuing test
+21192 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+36434 [main] INFO  INFO  - Unckeck keep me signed in is done successfully....continuing test
+46046 [main] INFO  INFO  - Click Sign in button is done successfully....continuing test
+59324 [main] INFO  INFO  - Spikes Slack navigation is done successfully....continuing test
+59499 [main] INFO  INFO  - Click Direct messages is done successfully....continuing test
+69490 [main] INFO  INFO  - Select spikesQA is done successfully....continuing test
+80796 [main] INFO  INFO  - spikesqa navigation is done successfully....continuing test
+81021 [main] INFO  INFO  - spikesQA message window verification is done successfully....continuing test
+107585 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+107797 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Slack: Where work happens started****
+22   [main] INFO  INFO  - Slack navigation is done successfully....continuing test
+354  [main] INFO  INFO  - Verify Slack favicon is done successfully....continuing test
+3226 [main] INFO  INFO  - Slack logo on home page verification is done successfully....continuing test
+6193 [main] INFO  INFO  - Click Sign In link is done successfully....continuing test
+21208 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+36361 [main] INFO  INFO  - Unckeck keep me signed in is done successfully....continuing test
+45945 [main] INFO  INFO  - Click Sign in button is done successfully....continuing test
+59257 [main] INFO  INFO  - Spikes Slack navigation is done successfully....continuing test
+59448 [main] INFO  INFO  - Click Direct messages is done successfully....continuing test
+69059 [main] INFO  INFO  - Select spikesQA is done successfully....continuing test
+80397 [main] INFO  INFO  - spikesqa navigation is done successfully....continuing test
+80621 [main] INFO  INFO  - spikesQA message window verification is done successfully....continuing test
+88814 [main] INFO  INFO  - Mouse hover spikesQA is done successfully....continuing test
+92746 [main] INFO  INFO  - Options menu click is done successfully....continuing test
+104318 [main] INFO  INFO  - Delete message click is done successfully....continuing test
+115953 [main] INFO  INFO  - Delete confirmation popup is done successfully....continuing test
+118838 [main] INFO  INFO  - Delete message confirmation button click is done successfully....continuing test
+148249 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+148511 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+1    [main] INFO  INFO  - ****Execution for ? Slack: Where work happens started****
+24   [main] INFO  INFO  - Slack navigation is done successfully....continuing test
+346  [main] INFO  INFO  - Verify Slack favicon is done successfully....continuing test
+3169 [main] INFO  INFO  - Slack logo on home page verification is done successfully....continuing test
+6041 [main] INFO  INFO  - Click Sign In link is done successfully....continuing test
+21235 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+36343 [main] INFO  INFO  - Unckeck keep me signed in is done successfully....continuing test
+45946 [main] INFO  INFO  - Click Sign in button is done successfully....continuing test
+59290 [main] INFO  INFO  - Spikes Slack navigation is done successfully....continuing test
+59476 [main] INFO  INFO  - Click Direct messages is done successfully....continuing test
+69133 [main] INFO  INFO  - Select spikesQA is done successfully....continuing test
+80442 [main] INFO  INFO  - spikesqa navigation is done successfully....continuing test
+80690 [main] INFO  INFO  - spikesQA message window verification is done successfully....continuing test
+88729 [main] INFO  INFO  - Mouse hover spikesQA is done successfully....continuing test
+98306 [main] INFO  INFO  - Options menu click is done successfully....continuing test
+109908 [main] INFO  INFO  - Delete message click is done successfully....continuing test
+121533 [main] INFO  INFO  - Delete confirmation popup is done successfully....continuing test
+124336 [main] INFO  INFO  - Delete message confirmation button click is done successfully....continuing test
+153869 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+154066 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Slack: Where work happens started****
+25   [main] INFO  INFO  - Slack navigation is done successfully....continuing test
+444  [main] INFO  INFO  - Verify Slack favicon is done successfully....continuing test
+3279 [main] INFO  INFO  - Slack logo on home page verification is done successfully....continuing test
+6193 [main] INFO  INFO  - Click Sign In link is done successfully....continuing test
+21096 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+36137 [main] INFO  INFO  - Unckeck keep me signed in is done successfully....continuing test
+45652 [main] INFO  INFO  - Click Sign in button is done successfully....continuing test
+58992 [main] INFO  INFO  - Spikes Slack navigation is done successfully....continuing test
+59222 [main] INFO  INFO  - Click Direct messages is done successfully....continuing test
+68720 [main] INFO  INFO  - Select spikesQA is done successfully....continuing test
+80018 [main] INFO  INFO  - spikesqa navigation is done successfully....continuing test
+80234 [main] INFO  INFO  - spikesQA message window verification is done successfully....continuing test
+86912 [main] INFO  INFO  - Mouse hover spikesQA is done successfully....continuing test
+90202 [main] INFO  INFO  - Options menu click is done successfully....continuing test
+101826 [main] INFO  INFO  - Delete message click is done successfully....continuing test
+113417 [main] INFO  INFO  - Delete confirmation popup is done successfully....continuing test
+116331 [main] INFO  INFO  - Delete message confirmation button click is done successfully....continuing test
+145680 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+145918 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Slack: Where work happens started****
+24   [main] INFO  INFO  - Slack navigation is done successfully....continuing test
+10941 [main] INFO  INFO  - Verify Slack favicon is done successfully....continuing test
+14236 [main] INFO  INFO  - Slack logo on home page verification is done successfully....continuing test
+16996 [main] INFO  INFO  - Click Sign In link is done successfully....continuing test
+33622 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+48687 [main] INFO  INFO  - Unckeck keep me signed in is done successfully....continuing test
+58258 [main] INFO  INFO  - Click Sign in button is done successfully....continuing test
+71627 [main] INFO  INFO  - Spikes Slack navigation is done successfully....continuing test
+72516 [main] INFO  INFO  - Click Direct messages is done successfully....continuing test
+82097 [main] INFO  INFO  - Select spikesQA is done successfully....continuing test
+93427 [main] INFO  INFO  - spikesqa navigation is done successfully....continuing test
+93641 [main] INFO  INFO  - spikesQA message window verification is done successfully....continuing test
+100173 [main] INFO  INFO  - Mouse hover spikesQA is done successfully....continuing test
+103711 [main] INFO  INFO  - Options menu click is done successfully....continuing test
+115308 [main] INFO  INFO  - Delete message click is done successfully....continuing test
+126978 [main] INFO  INFO  - Delete confirmation popup is done successfully....continuing test
+129770 [main] INFO  INFO  - Delete message confirmation button click is done successfully....continuing test
+159293 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+159293 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+159441 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Slack: Where work happens started****
+16   [main] INFO  INFO  - Slack navigation is done successfully....continuing test
+299  [main] INFO  INFO  - Verify Slack favicon is done successfully....continuing test
+3183 [main] INFO  INFO  - Slack logo on home page verification is done successfully....continuing test
+6055 [main] INFO  INFO  - Click Sign In link is done successfully....continuing test
+21216 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+36330 [main] INFO  INFO  - Unckeck keep me signed in is done successfully....continuing test
+45862 [main] INFO  INFO  - Click Sign in button is done successfully....continuing test
+59174 [main] INFO  INFO  - Spikes Slack navigation is done successfully....continuing test
+59982 [main] INFO  INFO  - Click Direct messages is done successfully....continuing test
+69516 [main] INFO  INFO  - Select spikesQA is done successfully....continuing test
+80850 [main] INFO  INFO  - spikesqa navigation is done successfully....continuing test
+81035 [main] INFO  INFO  - spikesQA message window verification is done successfully....continuing test
+87775 [main] INFO  INFO  - Mouse hover spikesQA is done successfully....continuing test
+110743 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+110743 [main] ERROR ERROR  - Options menu click failed....stopping test
+130989 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+131196 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Slack: Where work happens started****
+26   [main] INFO  INFO  - Slack navigation is done successfully....continuing test
+304  [main] INFO  INFO  - Verify Slack favicon is done successfully....continuing test
+3173 [main] INFO  INFO  - Slack logo on home page verification is done successfully....continuing test
+6064 [main] INFO  INFO  - Click Sign In link is done successfully....continuing test
+21214 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+36402 [main] INFO  INFO  - Unckeck keep me signed in is done successfully....continuing test
+45996 [main] INFO  INFO  - Click Sign in button is done successfully....continuing test
+59321 [main] INFO  INFO  - Spikes Slack navigation is done successfully....continuing test
+59578 [main] INFO  INFO  - Click Direct messages is done successfully....continuing test
+69213 [main] INFO  INFO  - Select spikesQA is done successfully....continuing test
+80518 [main] INFO  INFO  - spikesqa navigation is done successfully....continuing test
+80751 [main] INFO  INFO  - spikesQA message window verification is done successfully....continuing test
+87282 [main] INFO  INFO  - Mouse hover spikesQA is done successfully....continuing test
+91297 [main] INFO  INFO  - Options menu click is done successfully....continuing test
+102969 [main] INFO  INFO  - Delete message click is done successfully....continuing test
+114583 [main] INFO  INFO  - Delete confirmation popup is done successfully....continuing test
+117432 [main] INFO  INFO  - Delete message confirmation button click is done successfully....continuing test
+147054 [main] INFO  INFO  - Click Spikes Menu is done successfully....continuing test
+157587 [main] INFO  INFO  - Click Sign Out option is done successfully....continuing test
+166943 [main] INFO  INFO  - Signed Out navigation is done successfully....continuing test
+167558 [main] INFO  INFO  - Signed Out Slack confirmation is done successfully....continuing test
+170169 [main] INFO  INFO  - ****Execution for the current Test Case: Slack Completed****
+0    [main] INFO  INFO  - ****Execution for ? Slack: Where work happens started****
+26   [main] INFO  INFO  - Slack navigation is done successfully....continuing test
+409  [main] INFO  INFO  - Verify Slack favicon is done successfully....continuing test
+3306 [main] INFO  INFO  - Slack logo on home page verification is done successfully....continuing test
+6200 [main] INFO  INFO  - Click Sign In link is done successfully....continuing test
+21594 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+36710 [main] INFO  INFO  - Unckeck keep me signed in is done successfully....continuing test
+46330 [main] INFO  INFO  - Click Sign in button is done successfully....continuing test
+59687 [main] INFO  INFO  - Spikes Slack navigation is done successfully....continuing test
+60118 [main] INFO  INFO  - Click Direct messages is done successfully....continuing test
+69723 [main] INFO  INFO  - Select spikesQA is done successfully....continuing test
+81207 [main] INFO  INFO  - spikesqa navigation is done successfully....continuing test
+81641 [main] INFO  INFO  - spikesQA message window verification is done successfully....continuing test
+88307 [main] INFO  INFO  - Mouse hover spikesQA is done successfully....continuing test
+92574 [main] INFO  INFO  - Options menu click is done successfully....continuing test
+104575 [main] INFO  INFO  - Delete message click is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Slack: Where work happens started****
+27   [main] INFO  INFO  - Slack navigation is done successfully....continuing test
+270  [main] INFO  INFO  - Verify Slack favicon is done successfully....continuing test
+3193 [main] INFO  INFO  - Slack logo on home page verification is done successfully....continuing test
+6162 [main] INFO  INFO  - Click Sign In link is done successfully....continuing test
+21240 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+36448 [main] INFO  INFO  - Unckeck keep me signed in is done successfully....continuing test
+46026 [main] INFO  INFO  - Click Sign in button is done successfully....continuing test
+59367 [main] INFO  INFO  - Spikes Slack navigation is done successfully....continuing test
+60218 [main] INFO  INFO  - Click Direct messages is done successfully....continuing test
+69691 [main] INFO  INFO  - Select spikesQA is done successfully....continuing test
+81007 [main] INFO  INFO  - spikesqa navigation is done successfully....continuing test
+81649 [main] INFO  INFO  - spikesQA message window verification is done successfully....continuing test
+88829 [main] INFO  INFO  - Mouse hover spikesQA is done successfully....continuing test
+94351 [main] INFO  INFO  - Options menu click is done successfully....continuing test
+105915 [main] INFO  INFO  - Delete message click is done successfully....continuing test
+117603 [main] INFO  INFO  - Delete confirmation popup is done successfully....continuing test
+120434 [main] INFO  INFO  - Delete message confirmation button click is done successfully....continuing test
+150076 [main] INFO  INFO  - Click Spikes Menu is done successfully....continuing test
+160711 [main] INFO  INFO  - Click Sign Out option is done successfully....continuing test
+170058 [main] INFO  INFO  - Signed Out navigation is done successfully....continuing test
+170891 [main] INFO  INFO  - Signed Out Slack confirmation is done successfully....continuing test
+173580 [main] INFO  INFO  - ****Execution for the current Test Case: Slack Completed****
+0    [main] INFO  INFO  - ****Execution for ? Job Search | one search. all jobs. Indeed.com started****
+18   [main] INFO  INFO  - Job Search navigation is done successfully....continuing test
+308  [main] INFO  INFO  - Indeed logo verification is done successfully....continuing test
+3240 [main] INFO  INFO  - Click Find Jobs is done successfully....continuing test
+12801 [main] INFO  INFO  - Enter automation tester is done successfully....continuing test
+27307 [main] INFO  INFO  - Enter San Ramon is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Job Search | one search. all jobs. Indeed.com started****
+25   [main] INFO  INFO  - Job Search navigation is done successfully....continuing test
+468  [main] INFO  INFO  - Indeed logo verification is done successfully....continuing test
+3365 [main] INFO  INFO  - Click Find Jobs is done successfully....continuing test
+12981 [main] INFO  INFO  - Enter automation tester is done successfully....continuing test
+27515 [main] INFO  INFO  - Click where is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Job Search | one search. all jobs. Indeed.com started****
+23   [main] INFO  INFO  - Job Search navigation is done successfully....continuing test
+309  [main] INFO  INFO  - Indeed logo verification is done successfully....continuing test
+3237 [main] INFO  INFO  - Click Find Jobs is done successfully....continuing test
+12866 [main] INFO  INFO  - Enter automation tester is done successfully....continuing test
+27127 [main] INFO  INFO  - Click where is done successfully....continuing test
+43446 [main] INFO  INFO  - Click Full Time is done successfully....continuing test
+55055 [main] INFO  INFO  - Job type filter as Full Time validation is done successfully....continuing test
+57859 [main] INFO  INFO  - Click Find Resume link is done successfully....continuing test
+67135 [main] INFO  INFO  - ****Execution for the current Test Case: Indeed Completed****
+0    [main] INFO  INFO  - ****Execution for ? Job Search | one search. all jobs. Indeed.com started****
+13   [main] INFO  INFO  - Job Search navigation is done successfully....continuing test
+286  [main] INFO  INFO  - Indeed logo verification is done successfully....continuing test
+3151 [main] INFO  INFO  - Click Find Jobs is done successfully....continuing test
+12774 [main] INFO  INFO  - Enter automation tester is done successfully....continuing test
+27336 [main] INFO  INFO  - Click where is done successfully....continuing test
+45536 [main] INFO  INFO  - Click Full Time is done successfully....continuing test
+57065 [main] INFO  INFO  - Job type filter as Full Time validation is done successfully....continuing test
+59910 [main] INFO  INFO  - Click Find Resume link is done successfully....continuing test
+72216 [main] INFO  INFO  - Indeed Resume Search navigation is done successfully....continuing test
+72711 [main] INFO  INFO  - Enter automation tester is done successfully....continuing test
+87190 [main] INFO  INFO  - Click where is done successfully....continuing test
+105390 [main] INFO  INFO  - Click Employers is done successfully....continuing test
+114698 [main] INFO  INFO  - Post a Job navigation is done successfully....continuing test
+114699 [main] INFO  INFO  - ****Execution for the current Test Case: Indeed Completed****
+0    [main] INFO  INFO  - ****Execution for ? Job Search | one search. all jobs. Indeed.com started****
+23   [main] INFO  INFO  - Job Search navigation is done successfully....continuing test
+400  [main] INFO  INFO  - Indeed logo verification is done successfully....continuing test
+3355 [main] INFO  INFO  - Click Find Jobs is done successfully....continuing test
+13131 [main] INFO  INFO  - Enter automation tester is done successfully....continuing test
+27690 [main] INFO  INFO  - Click where is done successfully....continuing test
+46025 [main] INFO  INFO  - Click Full Time is done successfully....continuing test
+57529 [main] INFO  INFO  - Job type filter as Full Time validation is done successfully....continuing test
+60427 [main] INFO  INFO  - Click Find Resume link is done successfully....continuing test
+72800 [main] INFO  INFO  - Indeed Resume Search navigation is done successfully....continuing test
+73231 [main] INFO  INFO  - Enter automation tester is done successfully....continuing test
+87992 [main] INFO  INFO  - Click where is done successfully....continuing test
+106842 [main] INFO  INFO  - Automation Tester- San Ramon resume search verification is done successfully....continuing test
+109636 [main] INFO  INFO  - Click Employers is done successfully....continuing test
+118965 [main] INFO  INFO  - Post a Job navigation is done successfully....continuing test
+118965 [main] INFO  INFO  - ****Execution for the current Test Case: Indeed Completed****
+0    [main] INFO  INFO  - ****Execution for ? Job Search India | one search. all jobs. Indeed started****
+13   [main] INFO  INFO  - Job Search navigation is done successfully....continuing test
+368  [main] INFO  INFO  - Indeed logo verification is done successfully....continuing test
+3348 [main] INFO  INFO  - Click Find Jobs is done successfully....continuing test
+13151 [main] INFO  INFO  - Enter automation tester is done successfully....continuing test
+27541 [main] INFO  INFO  - Click where is done successfully....continuing test
+45471 [main] INFO  INFO  - Automation Tester Jobs navigation is done successfully....continuing test
+1    [main] INFO  INFO  - ****Execution for ? Google started****
+20   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+296  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+3404 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+22281 [main] INFO  INFO  - cyberinc.com navigation is done successfully....continuing test
+22325 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+25150 [main] INFO  INFO  - Google options is done successfully....continuing test
+27925 [main] INFO  INFO  - Cyberinc.com site check is done successfully....continuing test
+43178 [main] INFO  INFO  - Cyberinc navigation is done successfully....continuing test
+45786 [main] INFO  INFO  - Verify Cyberinc favicon is done successfully....continuing test
+48581 [main] INFO  INFO  - Verify Cyber Security tab is done successfully....continuing test
+53308 [main] INFO  INFO  - Click Isla Appliance under Cyber Security is done successfully....continuing test
+65610 [main] INFO  INFO  - Isla navigation is done successfully....continuing test
+65650 [main] INFO  INFO  - Verify Cyberinc favicon is done successfully....continuing test
+68432 [main] INFO  INFO  - Verify Cyberinc favicon is done successfully....continuing test
+73045 [main] INFO  INFO  - Verify Isla appliance zoomed image is done successfully....continuing test
+77710 [main] INFO  INFO  - Verify navigation back to Isla page is done successfully....continuing test
+85521 [main] INFO  INFO  - Click Support link after END keypress is done successfully....continuing test
+94801 [main] INFO  INFO  - Support navigation is done successfully....continuing test
+94835 [main] INFO  INFO  - Verify Cyberinc favicon is done successfully....continuing test
+100399 [main] INFO  INFO  - Isla navigation is done successfully....continuing test
+100442 [main] INFO  INFO  - Verify Cyberinc favicon post ALT+Left is done successfully....continuing test
+106054 [main] INFO  INFO  - Cyberinc navigation is done successfully....continuing test
+106090 [main] INFO  INFO  - Verify Cyberinc favicon post second ALT+Left is done successfully....continuing test
+111640 [main] INFO  INFO  - cyberinc.com navigation is done successfully....continuing test
+111683 [main] INFO  INFO  - Verify Google favicon( back to google search page) is done successfully....continuing test
+114481 [main] INFO  INFO  - Click Image link is done successfully....continuing test
+126741 [main] INFO  INFO  - Search navigation is done successfully....continuing test
+126782 [main] INFO  INFO  - Verify Google favicon for Google Image page is done successfully....continuing test
+136660 [main] INFO  INFO  - View image button click is done successfully....continuing test
+153275 [main] INFO  INFO  - Verify bookmark added is done successfully....continuing test
+166750 [main] INFO  INFO  - Bookmark removed successfully is done successfully....continuing test
+169296 [main] INFO  INFO  - ****Execution for the current Test Case: Google Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+15   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+244  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+24096 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+42794 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+42794 [main] ERROR ERROR  - cyberinc.com navigation is failed....stoping test
+42794 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+43015 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+18   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+242  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+23456 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+1    [main] INFO  INFO  - ****Execution for ? Google started****
+21   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+273  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+23617 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+42441 [main] INFO  INFO  - cyberinc.com navigation is done successfully....continuing test
+42465 [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+45175 [main] INFO  INFO  - Google options is done successfully....continuing test
+47935 [main] INFO  INFO  - Cyberinc.com site check is done successfully....continuing test
+63234 [main] INFO  INFO  - Cyberinc navigation is done successfully....continuing test
+66779 [main] INFO  INFO  - Verify Cyberinc favicon is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Wikipedia started****
+11   [main] INFO  INFO  - Wikipedia navigation is done successfully....continuing test
+243  [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+3179 [main] INFO  INFO  - Verify Wikipedia home page landing is done successfully....continuing test
+6068 [main] INFO  INFO  - Wikipedia Language Selection found successfully is done successfully....continuing test
+9643 [main] INFO  INFO  - Verify tooltip appearance is done successfully....continuing test
+12176 [main] INFO  INFO  - Polski language selected is done successfully....continuing test
+27499 [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+30078 [main] INFO  INFO  - wolna navigation is done successfully....continuing test
+48206 [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+50927 [main] INFO  INFO  - Text typed is done successfully....continuing test
+73002 [main] INFO  INFO  - Verify Wikipedia favicon is done successfully....continuing test
+79778 [main] INFO  INFO  - Select all is done successfully....continuing test
+82352 [main] INFO  INFO  - ****Execution for the current Test Case: Wikipedia Completed****
+0    [main] INFO  INFO  - ****Execution for ? Pinterest • The world’s catalog of ideas started****
+16   [main] INFO  INFO  - Pinterest navigation is done successfully....continuing test
+380  [main] INFO  INFO  - Verify Pinterest favicon is done successfully....continuing test
+3304 [main] INFO  INFO  - Pinterest initial page load is done successfully....continuing test
+6422 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+20757 [main] INFO  INFO  - Enter Password is done successfully....continuing test
+34657 [main] INFO  INFO  - Click Continue is done successfully....continuing test
+48950 [main] INFO  INFO  - Pinterest navigation is done successfully....continuing test
+48980 [main] INFO  INFO  - Verify Pinterest favicon is done successfully....continuing test
+51807 [main] INFO  INFO  - Login Pinterest is done successfully....continuing test
+66846 [main] INFO  INFO  - Doraemon search is done successfully....continuing test
+69523 [main] INFO  INFO  - Click Wallpapers is done successfully....continuing test
+81008 [main] INFO  INFO  - Verify Doraemon wallpapers search is done successfully....continuing test
+89646 [main] INFO  INFO  - Verify Pinterest favicon is done successfully....continuing test
+92572 [main] INFO  INFO  - Verify navigated URL image is done successfully....continuing test
+95461 [main] INFO  INFO  - Click Zoom is done successfully....continuing test
+108006 [main] INFO  INFO  - Verify Doraemon zoomed image is done successfully....continuing test
+112820 [main] INFO  INFO  - Verify zoom in is done successfully....continuing test
+115550 [main] INFO  INFO  - Click Save button to pin the image is done successfully....continuing test
+125124 [main] INFO  INFO  - Image Save/pin click is done successfully....continuing test
+127899 [main] INFO  INFO  - Create a board is done successfully....continuing test
+137400 [main] INFO  INFO  - Verify create board popup is done successfully....continuing test
+140162 [main] INFO  INFO  - Enter Board title is done successfully....continuing test
+158948 [main] INFO  INFO  - Verify Doraemon page is done successfully....continuing test
+161681 [main] INFO  INFO  - Click User profile icon is done successfully....continuing test
+174006 [main] INFO  INFO  - Pinterest navigation is done successfully....continuing test
+174247 [main] INFO  INFO  - Verify user profile is done successfully....continuing test
+183310 [main] INFO  INFO  - Verify mover hover on Automation Board is done successfully....continuing test
+186118 [main] INFO  INFO  - Verify hover and Click Edit is done successfully....continuing test
+197666 [main] INFO  INFO  - Verify Automation board details is done successfully....continuing test
+200380 [main] INFO  INFO  - Click Delete is done successfully....continuing test
+211879 [main] INFO  INFO  - Verify Delete click is done successfully....continuing test
+214693 [main] INFO  INFO  - Click Delete Board is done successfully....continuing test
+226053 [main] INFO  INFO  - Verify successful board deletion is done successfully....continuing test
+228793 [main] INFO  INFO  - Click User options is done successfully....continuing test
+238720 [main] INFO  INFO  - User options - LogOut click is done successfully....continuing test
+251080 [main] INFO  INFO  - Verify Pinterest favicon is done successfully....continuing test
+253733 [main] INFO  INFO  - Pinterest initial page load is done successfully....continuing test
+256323 [main] INFO  INFO  - ****Execution for the current Test Case: Pinterest Completed****
+0    [main] INFO  INFO  - ****Execution for ? Send Money, Pay Online or Set Up a Merchant Account - PayPal India started****
+18   [main] INFO  INFO  - Send Money, Pay Online or Set Up a Merchant Account - PayPal navigation is done successfully....continuing test
+318  [main] INFO  INFO  - Verify PayPal favicon is done successfully....continuing test
+23698 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+23698 [main] ERROR ERROR  - Click Personal failed....stopping test
+43825 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+44335 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? How people build software · GitHub started****
+19   [main] INFO  INFO  - GitHub navigation is done successfully....continuing test
+286  [main] INFO  INFO  - Verify GitHub favicon is done successfully....continuing test
+3165 [main] INFO  INFO  - Click Signin is done successfully....continuing test
+22002 [main] INFO  INFO  - Verify Login is done successfully....continuing test
+24993 [main] INFO  INFO  - Search Selenium is done successfully....continuing test
+34324 [main] INFO  INFO  - Search Selenium is done successfully....continuing test
+51261 [main] INFO  INFO  - Verify selenium search result page is done successfully....continuing test
+54010 [main] INFO  INFO  - Click Selenium is done successfully....continuing test
+66543 [main] INFO  INFO  - Verify selenium link click is done successfully....continuing test
+69232 [main] INFO  INFO  - Click Issues is done successfully....continuing test
+81784 [main] INFO  INFO  - Selenium issue tab navigation is done successfully....continuing test
+115585 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+115585 [main] ERROR ERROR  - Click Issue Link failed....stopping test
+135866 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+136081 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? craigslist: SF bay area jobs, apartments, personals, for sale, services, community, and events started****
+16   [main] INFO  INFO  - craigslist navigation is done successfully....continuing test
+232  [main] INFO  INFO  - Verify craigslist favicon is done successfully....continuing test
+3081 [main] INFO  INFO  - Home page load verification is done successfully....continuing test
+5929 [main] INFO  INFO  - Click my account is done successfully....continuing test
+19967 [main] INFO  INFO  - craigslist account navigation is done successfully....continuing test
+20185 [main] INFO  INFO  - Verify login is done successfully....continuing test
+23024 [main] INFO  INFO  - Verify number of posts done by user is done successfully....continuing test
+25806 [main] INFO  INFO  - Click Go for new post is done successfully....continuing test
+37117 [main] INFO  INFO  - choose type navigation is done successfully....continuing test
+37293 [main] INFO  INFO  - New post- Select type of post is done successfully....continuing test
+40130 [main] INFO  INFO  - Click post type- for sale by owner is done successfully....continuing test
+49631 [main] INFO  INFO  - choose category navigation is done successfully....continuing test
+49853 [main] INFO  INFO  - Verify category page is done successfully....continuing test
+52620 [main] INFO  INFO  - Click antiques is done successfully....continuing test
+62230 [main] INFO  INFO  - choose nearest area navigation is done successfully....continuing test
+62792 [main] INFO  INFO  - Select nearest area is done successfully....continuing test
+65601 [main] INFO  INFO  - Select nearest area- city of san francisco is done successfully....continuing test
+74907 [main] INFO  INFO  - choose neighborhood navigation is done successfully....continuing test
+75207 [main] INFO  INFO  - Verify neighborhood page is done successfully....continuing test
+78014 [main] INFO  INFO  - Select neighborhood is done successfully....continuing test
+87329 [main] INFO  INFO  - create posting navigation is done successfully....continuing test
+87558 [main] INFO  INFO  - Create post page verification is done successfully....continuing test
+90396 [main] INFO  INFO  - Click logo to navigate to Home page is done successfully....continuing test
+102711 [main] INFO  INFO  - craigslist: SF bay area navigation is done successfully....continuing test
+102738 [main] INFO  INFO  - Verify craigslist favicon is done successfully....continuing test
+105362 [main] INFO  INFO  - Home page load verification is done successfully....continuing test
+108125 [main] INFO  INFO  - View posts for Sale is done successfully....continuing test
+111073 [main] INFO  INFO  - Click farm+garden category is done successfully....continuing test
+120372 [main] INFO  INFO  - SF bay area farm & garden - craigslist navigation is done successfully....continuing test
+120585 [main] INFO  INFO  - Verify Farm + Garden page header is done successfully....continuing test
+125324 [main] INFO  INFO  - Verify craigslist footer is done successfully....continuing test
+128158 [main] INFO  INFO  - Go back to page top is done successfully....continuing test
+139561 [main] INFO  INFO  - Verify Farm + Garden page header is done successfully....continuing test
+142358 [main] INFO  INFO  - Click account is done successfully....continuing test
+152691 [main] INFO  INFO  - Verify user home page is done successfully....continuing test
+155576 [main] INFO  INFO  - Click logout is done successfully....continuing test
+165879 [main] INFO  INFO  - account log in navigation is done successfully....continuing test
+165924 [main] INFO  INFO  - Verify craigslist favicon is done successfully....continuing test
+168706 [main] INFO  INFO  - verify logout is done successfully....continuing test
+171258 [main] INFO  INFO  - ****Execution for the current Test Case: Craigslist Completed****
+1    [main] INFO  INFO  - ****Execution for ? Free Online YouTube Downloader: Download YouTube Videos, Facebook and many others! started****
+14   [main] INFO  INFO  - Free Online YouTube Downloader navigation is done successfully....continuing test
+292  [main] INFO  INFO  - Verify Savefrom favicon is done successfully....continuing test
+3151 [main] INFO  INFO  - Verify home page site logo is done successfully....continuing test
+5954 [main] INFO  INFO  - Enter Gerua link is done successfully....continuing test
+23516 [main] INFO  INFO  - Verify Gerua error is done successfully....continuing test
+26237 [main] INFO  INFO  - Click to clear inserted link is done successfully....continuing test
+35879 [main] INFO  INFO  - Enter new link is done successfully....continuing test
+38798 [main] INFO  INFO  - Enter corrupted link is done successfully....continuing test
+55982 [main] INFO  INFO  - Verify not supported error message is done successfully....continuing test
+59180 [main] INFO  INFO  - Enter Gerua link is done successfully....continuing test
+76011 [main] INFO  INFO  - Verify download link not found error message is done successfully....continuing test
+78595 [main] INFO  INFO  - Click to clear inserted link is done successfully....continuing test
+88160 [main] INFO  INFO  - Enter new link is done successfully....continuing test
+90930 [main] INFO  INFO  - Enter corrupted link is done successfully....continuing test
+111256 [main] INFO  INFO  - Verify to be downloaded video title is done successfully....continuing test
+114048 [main] INFO  INFO  - Verify to be downloaded video snapshot is done successfully....continuing test
+116904 [main] INFO  INFO  - Click video download is done successfully....continuing test
+148698 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+148698 [main] ERROR ERROR  - Verify Isla download message failed....stopping test
+168962 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+169195 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Free Online YouTube Downloader: Download YouTube Videos, Facebook and many others! started****
+8    [main] INFO  INFO  - Free Online YouTube Downloader navigation is done successfully....continuing test
+216  [main] INFO  INFO  - Verify Savefrom favicon is done successfully....continuing test
+2994 [main] INFO  INFO  - Verify home page site logo is done successfully....continuing test
+5747 [main] INFO  INFO  - Enter Gerua link is done successfully....continuing test
+23178 [main] INFO  INFO  - Verify Gerua error is done successfully....continuing test
+25902 [main] INFO  INFO  - Click to clear inserted link is done successfully....continuing test
+35559 [main] INFO  INFO  - Enter new link is done successfully....continuing test
+38498 [main] INFO  INFO  - Enter corrupted link is done successfully....continuing test
+55644 [main] INFO  INFO  - Verify not supported error message is done successfully....continuing test
+58446 [main] INFO  INFO  - Enter Gerua link is done successfully....continuing test
+75324 [main] INFO  INFO  - Verify download link not found error message is done successfully....continuing test
+77948 [main] INFO  INFO  - Click to clear inserted link is done successfully....continuing test
+87531 [main] INFO  INFO  - Enter new link is done successfully....continuing test
+90258 [main] INFO  INFO  - Enter corrupted link is done successfully....continuing test
+110560 [main] INFO  INFO  - Verify to be downloaded video title is done successfully....continuing test
+113362 [main] INFO  INFO  - Verify to be downloaded video snapshot is done successfully....continuing test
+116082 [main] INFO  INFO  - Click video download is done successfully....continuing test
+147698 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+147698 [main] ERROR ERROR  - Verify Isla download message failed....stopping test
+167812 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+167992 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Free Online YouTube Downloader: Download YouTube Videos, Facebook and many others! started****
+13   [main] INFO  INFO  - Free Online YouTube Downloader navigation is done successfully....continuing test
+236  [main] INFO  INFO  - Verify Savefrom favicon is done successfully....continuing test
+3021 [main] INFO  INFO  - Verify home page site logo is done successfully....continuing test
+5832 [main] INFO  INFO  - Enter Gerua link is done successfully....continuing test
+23304 [main] INFO  INFO  - Verify Gerua error is done successfully....continuing test
+26010 [main] INFO  INFO  - Click to clear inserted link is done successfully....continuing test
+35681 [main] INFO  INFO  - Enter new link is done successfully....continuing test
+38375 [main] INFO  INFO  - Enter corrupted link is done successfully....continuing test
+55512 [main] INFO  INFO  - Verify not supported error message is done successfully....continuing test
+58602 [main] INFO  INFO  - Enter Gerua link is done successfully....continuing test
+75415 [main] INFO  INFO  - Verify download link not found error message is done successfully....continuing test
+77999 [main] INFO  INFO  - Click to clear inserted link is done successfully....continuing test
+87512 [main] INFO  INFO  - Enter new link is done successfully....continuing test
+90194 [main] INFO  INFO  - Enter corrupted link is done successfully....continuing test
+110486 [main] INFO  INFO  - Verify to be downloaded video title is done successfully....continuing test
+113207 [main] INFO  INFO  - Verify to be downloaded video snapshot is done successfully....continuing test
+115921 [main] INFO  INFO  - Click video download is done successfully....continuing test
+127388 [main] INFO  INFO  - Verify Isla download message is done successfully....continuing test
+129974 [main] INFO  INFO  - ****Execution for the current Test Case: Savefrom Completed****
+0    [main] INFO  INFO  - ****Execution for ? Slack: Where work happens started****
+19   [main] INFO  INFO  - Slack navigation is done successfully....continuing test
+254  [main] INFO  INFO  - Verify Slack favicon is done successfully....continuing test
+3098 [main] INFO  INFO  - Slack logo on home page verification is done successfully....continuing test
+5909 [main] INFO  INFO  - Click Sign In link is done successfully....continuing test
+22294 [main] INFO  INFO  - Enter Username is done successfully....continuing test
+37205 [main] INFO  INFO  - Unckeck keep me signed in is done successfully....continuing test
+46702 [main] INFO  INFO  - Click Sign in button is done successfully....continuing test
+60004 [main] INFO  INFO  - Spikes Slack navigation is done successfully....continuing test
+64497 [main] INFO  INFO  - Click Direct messages is done successfully....continuing test
+73986 [main] INFO  INFO  - Select spikesQA is done successfully....continuing test
+85278 [main] INFO  INFO  - spikesqa navigation is done successfully....continuing test
+85426 [main] INFO  INFO  - spikesQA message window verification is done successfully....continuing test
+92032 [main] INFO  INFO  - Mouse hover spikesQA is done successfully....continuing test
+95506 [main] INFO  INFO  - Options menu click is done successfully....continuing test
+106990 [main] INFO  INFO  - Delete message click is done successfully....continuing test
+118467 [main] INFO  INFO  - Delete confirmation popup is done successfully....continuing test
+121232 [main] INFO  INFO  - Delete message confirmation button click is done successfully....continuing test
+150753 [main] INFO  INFO  - Click Spikes Menu is done successfully....continuing test
+161213 [main] INFO  INFO  - Click Sign Out option is done successfully....continuing test
+170548 [main] INFO  INFO  - Signed Out navigation is done successfully....continuing test
+171586 [main] INFO  INFO  - Signed Out Slack confirmation is done successfully....continuing test
+174208 [main] INFO  INFO  - ****Execution for the current Test Case: Slack Completed****
+0    [main] INFO  INFO  - ****Execution for ? Google started****
+17   [main] INFO  INFO  - Google navigation is done successfully....continuing test
+234  [main] INFO  INFO  - Verify Google favicon is done successfully....continuing test
+23236 [main] INFO  INFO  - Google serach box is done successfully....continuing test
+42352 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+42353 [main] ERROR ERROR  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consectetur ipsum ac ex fringilla commodo. Nam rutrum ipsum lacus, nec pulvinar nisi iaculis ac. Sed quis egestas justo, eget posuere turpis. Phasellus consectetur posuere dapibus. Phasellus vel ultrices erat. Mauris non vestibulum neque. Etiam vitae consectetur quam. In pretium malesuada elit sed aliquet. navigation is failed....stoping test
+42353 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+42588 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more started****
+19   [main] INFO  INFO  - Amazon navigation is done successfully....continuing test
+432  [main] INFO  INFO  - Verify Amazon favicon is done successfully....continuing test
+3391 [main] INFO  INFO  - Click Stay on Amazon.com is done successfully....continuing test
+13092 [main] INFO  INFO  - Verify if user already logged in is done successfully....continuing test
+30439 [main] INFO  INFO  - Amazon Sign In navigation is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Send Money, Pay Online or Set Up a Merchant Account - PayPal India started****
+8    [main] INFO  INFO  - Send Money, Pay Online or Set Up a Merchant Account - PayPal navigation is done successfully....continuing test
+267  [main] INFO  INFO  - Verify PayPal favicon is done successfully....continuing test
+23597 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+23597 [main] ERROR ERROR  - Click Personal failed....stopping test
+43769 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+43911 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Send Money, Pay Online or Set Up a Merchant Account - PayPal India started****
+24   [main] INFO  INFO  - Send Money, Pay Online or Set Up a Merchant Account - PayPal navigation is done successfully....continuing test
+418  [main] INFO  INFO  - Verify PayPal favicon is done successfully....continuing test
+23398 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+23398 [main] ERROR ERROR  - Click Personal failed....stopping test
+43706 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+44145 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Send Money, Pay Online or Set Up a Merchant Account - PayPal India started****
+17   [main] INFO  INFO  - Send Money, Pay Online or Set Up a Merchant Account - PayPal navigation is done successfully....continuing test
+409  [main] INFO  INFO  - Verify PayPal favicon is done successfully....continuing test
+3418 [main] INFO  INFO  - Click Individual is done successfully....continuing test
+20934 [main] INFO  INFO  - Click Indian flag is done successfully....continuing test
+33246 [main] INFO  INFO  - All countries and markets - PayPal navigation is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for ? Send Money, Pay Online or Set Up a Merchant Account - PayPal India started****
+18   [main] INFO  INFO  - Send Money, Pay Online or Set Up a Merchant Account - PayPal navigation is done successfully....continuing test
+340  [main] INFO  INFO  - Verify PayPal favicon is done successfully....continuing test
+3268 [main] INFO  INFO  - Click Individual is done successfully....continuing test
+20943 [main] INFO  INFO  - Click Indian flag is done successfully....continuing test
+33277 [main] INFO  INFO  - All countries and markets - PayPal navigation is done successfully....continuing test
+55703 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+55703 [main] ERROR ERROR  - Click Personal failed....stopping test
+76065 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+76219 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Send Money, Pay Online or Set Up a Merchant Account - PayPal started****
+23   [main] INFO  INFO  - Send Money, Pay Online or Set Up a Merchant Account - PayPal navigation is done successfully....continuing test
+596  [main] INFO  INFO  - Verify PayPal favicon is done successfully....continuing test
+23565 [main] INFO  INFO  - Click Personal is done successfully....continuing test
+48150 [main] INFO  INFO  - Click How to Use Paypal is done successfully....continuing test
+72472 [main] INFO  INFO  - How to Use PayPal navigation is done successfully....continuing test
+72514 [main] INFO  INFO  - Verify PayPal favicon is done successfully....continuing test
+75259 [main] INFO  INFO  - Click SignUp is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for Taobao started****
+385  [main] INFO  INFO  - Verify home page is done successfully....continuing test
+3449 [main] INFO  INFO  - Click Dresses is done successfully....continuing test
+30025 [main] INFO  INFO  - Verify page navigation to dresses page is done successfully....continuing test
+32783 [main] INFO  INFO  - Click language selector is done successfully....continuing test
+47341 [main] INFO  INFO  - Select language is done successfully....continuing test
+57642 [main] INFO  INFO  - Language options is done successfully....continuing test
+82060 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+82060 [main] ERROR ERROR  - Verify home page failed....stopping test
+102253 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+102575 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for Taobao started****
+248  [main] INFO  INFO  - Verify home page is done successfully....continuing test
+3044 [main] INFO  INFO  - Click Dresses is done successfully....continuing test
+24640 [main] INFO  INFO  - Verify page navigation to dresses page is done successfully....continuing test
+27325 [main] INFO  INFO  - Click language selector is done successfully....continuing test
+45843 [main] INFO  INFO  - Select language is done successfully....continuing test
+55868 [main] INFO  INFO  - Language options is done successfully....continuing test
+80368 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+80368 [main] ERROR ERROR  - Verify home page failed....stopping test
+100676 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+100996 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for So started****
+508  [main] INFO  INFO  - So favicon verification is done successfully....continuing test
+3600 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+6526 [main] INFO  INFO  - Click Wikipedia option is done successfully....continuing test
+19118 [main] INFO  INFO  - Wikipedia option click is done successfully....continuing test
+22063 [main] INFO  INFO  - Click Web option is done successfully....continuing test
+34629 [main] INFO  INFO  - Web - 360 navigation is done successfully....continuing test
+37431 [main] INFO  INFO  - Click News is done successfully....continuing test
+49991 [main] INFO  INFO  - News logo is done successfully....continuing test
+52602 [main] INFO  INFO  - ****Execution for the current Test Case: So Completed****
+0    [main] INFO  INFO  - ****Execution for Coccoc started****
+594  [main] INFO  INFO  - Coccoc favicon verification is done successfully....continuing test
+3461 [main] INFO  INFO  - Coccoc logo verification is done successfully....continuing test
+21256 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+24011 [main] INFO  INFO  - Click Introduction link is done successfully....continuing test
+37658 [main] INFO  INFO  - Introduction page verification is done successfully....continuing test
+40558 [main] INFO  INFO  - Click home page is done successfully....continuing test
+58895 [main] INFO  INFO  - Coccoc home page link click verification is done successfully....continuing test
+76261 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+79382 [main] INFO  INFO  - Click post an Ad link is done successfully....continuing test
+91968 [main] INFO  INFO  - Post an ad page logo verification is done successfully....continuing test
+94763 [main] INFO  INFO  - Click Cost and payment link is done successfully....continuing test
+107419 [main] INFO  INFO  - Cash and payment method page verification is done successfully....continuing test
+110035 [main] INFO  INFO  - ****Execution for the current Test Case: Coccoc Completed****
+0    [main] INFO  INFO  - ****Execution for Soso started****
+326  [main] INFO  INFO  - soso favicon verification is done successfully....continuing test
+3803 [main] INFO  INFO  - soso home page footer verification is done successfully....continuing test
+6795 [main] INFO  INFO  - Search for software testing webpages is done successfully....continuing test
+25525 [main] INFO  INFO  - Search result page verification is done successfully....continuing test
+28447 [main] INFO  INFO  - Click login is done successfully....continuing test
+45020 [main] INFO  INFO  - Login logo verification is done successfully....continuing test
+47779 [main] INFO  INFO  - Click Mobile account login link is done successfully....continuing test
+61476 [main] INFO  INFO  - Mobile account login popup logo verification is done successfully....continuing test
+64248 [main] INFO  INFO  - Enter mobile number is done successfully....continuing test
+78248 [main] INFO  INFO  - Mobile number entry is done successfully....continuing test
+85913 [main] INFO  INFO  - Search result page verification post ALT+Left is done successfully....continuing test
+88701 [main] INFO  INFO  - Randon click on screen is done successfully....continuing test
+106355 [main] INFO  INFO  - Verify footer is done successfully....continuing test
+112992 [main] INFO  INFO  - soso favicon verification is done successfully....continuing test
+115967 [main] INFO  INFO  - soso logo with search options verification is done successfully....continuing test
+139383 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+139383 [main] ERROR ERROR  - Click English for translation failed....stopping test
+159703 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+159998 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for Soso started****
+474  [main] INFO  INFO  - soso favicon verification is done successfully....continuing test
+3534 [main] INFO  INFO  - soso home page footer verification is done successfully....continuing test
+6373 [main] INFO  INFO  - Search for software testing webpages is done successfully....continuing test
+25097 [main] INFO  INFO  - Search result page verification is done successfully....continuing test
+27954 [main] INFO  INFO  - Click login is done successfully....continuing test
+42219 [main] INFO  INFO  - Login logo verification is done successfully....continuing test
+44981 [main] INFO  INFO  - Click Mobile account login link is done successfully....continuing test
+58715 [main] INFO  INFO  - Mobile account login popup logo verification is done successfully....continuing test
+61464 [main] INFO  INFO  - Enter mobile number is done successfully....continuing test
+75399 [main] INFO  INFO  - Mobile number entry is done successfully....continuing test
+83077 [main] INFO  INFO  - Search result page verification post ALT+Left is done successfully....continuing test
+85938 [main] INFO  INFO  - Randon click on screen is done successfully....continuing test
+103573 [main] INFO  INFO  - Verify footer is done successfully....continuing test
+110208 [main] INFO  INFO  - soso favicon verification is done successfully....continuing test
+112972 [main] INFO  INFO  - soso logo with search options verification is done successfully....continuing test
+136232 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+136232 [main] ERROR ERROR  - Click English for translation failed....stopping test
+156657 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+156934 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for Soso started****
+537  [main] INFO  INFO  - soso favicon verification is done successfully....continuing test
+3701 [main] INFO  INFO  - soso home page footer verification is done successfully....continuing test
+6604 [main] INFO  INFO  - Search for software testing webpages is done successfully....continuing test
+29916 [main] INFO  INFO  - Search result page verification is done successfully....continuing test
+32724 [main] INFO  INFO  - Click login is done successfully....continuing test
+66443 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+66443 [main] ERROR ERROR  - Login logo verification failed....stopping test
+86502 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+86841 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for Soso started****
+453  [main] INFO  INFO  - soso favicon verification is done successfully....continuing test
+3494 [main] INFO  INFO  - soso home page footer verification is done successfully....continuing test
+6445 [main] INFO  INFO  - Search for software testing webpages is done successfully....continuing test
+25195 [main] INFO  INFO  - Search result page verification is done successfully....continuing test
+28001 [main] INFO  INFO  - Click login is done successfully....continuing test
+41617 [main] INFO  INFO  - Login logo verification is done successfully....continuing test
+44373 [main] INFO  INFO  - Click Mobile account login link is done successfully....continuing test
+57909 [main] INFO  INFO  - Mobile account login popup logo verification is done successfully....continuing test
+60804 [main] INFO  INFO  - Enter mobile number is done successfully....continuing test
+74801 [main] INFO  INFO  - Mobile number entry is done successfully....continuing test
+82540 [main] INFO  INFO  - Search result page verification post ALT+Left is done successfully....continuing test
+85381 [main] INFO  INFO  - Randon click on screen is done successfully....continuing test
+103028 [main] INFO  INFO  - Verify footer is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for Soso started****
+299  [main] INFO  INFO  - soso favicon verification is done successfully....continuing test
+3385 [main] INFO  INFO  - soso home page footer verification is done successfully....continuing test
+6255 [main] INFO  INFO  - Search for software testing webpages is done successfully....continuing test
+25129 [main] INFO  INFO  - Search result page verification is done successfully....continuing test
+27873 [main] INFO  INFO  - Click login is done successfully....continuing test
+41931 [main] INFO  INFO  - Login logo verification is done successfully....continuing test
+44769 [main] INFO  INFO  - Click Mobile account login link is done successfully....continuing test
+58378 [main] INFO  INFO  - Mobile account login popup logo verification is done successfully....continuing test
+61255 [main] INFO  INFO  - Enter mobile number is done successfully....continuing test
+75169 [main] INFO  INFO  - Mobile number entry is done successfully....continuing test
+82839 [main] INFO  INFO  - Search result page verification post ALT+Left is done successfully....continuing test
+85859 [main] INFO  INFO  - Randon click on screen is done successfully....continuing test
+103652 [main] INFO  INFO  - Verify footer is done successfully....continuing test
+110319 [main] INFO  INFO  - soso favicon verification is done successfully....continuing test
+113361 [main] INFO  INFO  - soso logo with search options verification is done successfully....continuing test
+116359 [main] INFO  INFO  - Click English for translation is done successfully....continuing test
+131170 [main] INFO  INFO  - Software Testing- english translated search result page verification is done successfully....continuing test
+145508 [main] INFO  INFO  - soso logo with search options verification post mouse right click is done successfully....continuing test
+148548 [main] INFO  INFO  - Click News is done successfully....continuing test
+162939 [main] INFO  INFO  - soso favicon verification is done successfully....continuing test
+165993 [main] INFO  INFO  - Search results for news article is done successfully....continuing test
+168686 [main] INFO  INFO  - ****Execution for the current Test Case: Soso Completed****
+0    [main] INFO  INFO  - ****Execution for Three60 started****
+28   [main] INFO  INFO  - 360 navigation is done successfully....continuing test
+357  [main] INFO  INFO  - Verify 360 home page load is done successfully....continuing test
+3420 [main] INFO  INFO  - Mouse hover mobile applications is done successfully....continuing test
+8217 [main] INFO  INFO  - Verify mobile applications options is done successfully....continuing test
+11513 [main] INFO  INFO  - Verify 360 favicon is done successfully....continuing test
+14288 [main] INFO  INFO  - Click 360 mall is done successfully....continuing test
+33870 [main] INFO  INFO  - 360 mall logo verification is done successfully....continuing test
+77309 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+77309 [main] ERROR ERROR  - Verify footer failed....stopping test
+97549 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+97777 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for Three60 started****
+38   [main] INFO  INFO  - 360 navigation is done successfully....continuing test
+317  [main] INFO  INFO  - Verify 360 home page load is done successfully....continuing test
+3367 [main] INFO  INFO  - Mouse hover mobile applications is done successfully....continuing test
+26707 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+26707 [main] ERROR ERROR  - Verify mobile applications options failed....stopping test
+30741 [main] INFO  INFO  - Verify 360 favicon is done successfully....continuing test
+33459 [main] INFO  INFO  - Click 360 mall is done successfully....continuing test
+72503 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+72503 [main] ERROR ERROR  - 360 mall logo verification failed....stopping test
+92636 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+92803 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for Sina started****
+21096 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+21096 [main] ERROR ERROR  - Sina home page logo verification failed....stopping test
+30462 [main] INFO  INFO  - Click Site Navigation is done successfully....continuing test
+50001 [main] INFO  INFO  - Sina logo check after Site Navigation link click is done successfully....continuing test
+55993 [main] INFO  INFO  - Click NBA is done successfully....continuing test
+72721 [main] INFO  INFO  - NBA options verification is done successfully....continuing test
+75531 [main] INFO  INFO  - Click Car is done successfully....continuing test
+95786 [main] INFO  INFO  - Car options verification is done successfully....continuing test
+104782 [main] INFO  INFO  - Site navigation page verification post ALT+Left keypress is done successfully....continuing test
+129670 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+129670 [main] ERROR ERROR  - Sina home page verification after tab close failed....stopping test
+133470 [main] INFO  INFO  - ****Execution for the current Test Case: Sina Completed****
+0    [main] INFO  INFO  - ****Execution for Sina started****
+9268 [main] INFO  INFO  - Sina home page logo verification is done successfully....continuing test
+12158 [main] INFO  INFO  - Click Site Navigation is done successfully....continuing test
+25464 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+25895 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for Sina started****
+831  [main] INFO  INFO  - Sina home page logo verification is done successfully....continuing test
+3677 [main] INFO  INFO  - Click Site Navigation is done successfully....continuing test
+29388 [main] INFO  INFO  - Sina logo check after Site Navigation link click is done successfully....continuing test
+35439 [main] INFO  INFO  - Click NBA is done successfully....continuing test
+51963 [main] INFO  INFO  - NBA options verification is done successfully....continuing test
+54723 [main] INFO  INFO  - Click Car is done successfully....continuing test
+71249 [main] INFO  INFO  - Car options verification is done successfully....continuing test
+80291 [main] INFO  INFO  - Site navigation page verification post ALT+Left keypress is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for Sina started****
+297  [main] INFO  INFO  - Sina home page logo verification is done successfully....continuing test
+3193 [main] INFO  INFO  - Click Site Navigation is done successfully....continuing test
+22872 [main] INFO  INFO  - Sina logo check after Site Navigation link click is done successfully....continuing test
+31875 [main] INFO  INFO  - Click NBA is done successfully....continuing test
+48403 [main] INFO  INFO  - NBA options verification is done successfully....continuing test
+51149 [main] INFO  INFO  - Click Car is done successfully....continuing test
+68045 [main] INFO  INFO  - Car options verification is done successfully....continuing test
+76970 [main] INFO  INFO  - Site navigation page verification post ALT+Left keypress is done successfully....continuing test
+102100 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+102100 [main] ERROR ERROR  - Sina home page verification after tab close failed....stopping test
+122783 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+122980 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for Sina started****
+390  [main] INFO  INFO  - Sina home page logo verification is done successfully....continuing test
+3301 [main] INFO  INFO  - Click Site Navigation is done successfully....continuing test
+16807 [main] INFO  INFO  - Sina logo check after Site Navigation link click is done successfully....continuing test
+22817 [main] INFO  INFO  - Click NBA is done successfully....continuing test
+60750 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+60750 [main] ERROR ERROR  - NBA options verification failed....stopping test
+80921 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+81048 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for Sina started****
+241  [main] INFO  INFO  - Sina home page logo verification is done successfully....continuing test
+3123 [main] INFO  INFO  - Click Site Navigation is done successfully....continuing test
+20733 [main] INFO  INFO  - Sina logo check after Site Navigation link click is done successfully....continuing test
+26675 [main] INFO  INFO  - Click NBA is done successfully....continuing test
+43194 [main] INFO  INFO  - NBA options verification is done successfully....continuing test
+45968 [main] INFO  INFO  - Click Car is done successfully....continuing test
+63204 [main] INFO  INFO  - Car options verification is done successfully....continuing test
+72106 [main] INFO  INFO  - Site navigation page verification post ALT+Left keypress is done successfully....continuing test
+97221 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+97222 [main] ERROR ERROR  - Sina home page verification after tab close failed....stopping test
+0    [main] INFO  INFO  - ****Execution for Sina started****
+378  [main] INFO  INFO  - Sina home page logo verification is done successfully....continuing test
+3248 [main] INFO  INFO  - Click Site Navigation is done successfully....continuing test
+22264 [main] INFO  INFO  - Sina logo check after Site Navigation link click is done successfully....continuing test
+28337 [main] INFO  INFO  - Click NBA is done successfully....continuing test
+45108 [main] INFO  INFO  - NBA options verification is done successfully....continuing test
+47859 [main] INFO  INFO  - Click Car is done successfully....continuing test
+64452 [main] INFO  INFO  - Car options verification is done successfully....continuing test
+73398 [main] INFO  INFO  - Site navigation page verification post ALT+Left keypress is done successfully....continuing test
+98271 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+98271 [main] ERROR ERROR  - Sina home page verification after tab close failed....stopping test
+0    [main] INFO  INFO  - ****Execution for Sina started****
+20863 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+20863 [main] ERROR ERROR  - Sina home page logo verification failed....stopping test
+41108 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+41531 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for Sina started****
+6594 [main] INFO  INFO  - Sina home page logo verification is done successfully....continuing test
+9389 [main] INFO  INFO  - Click Site Navigation is done successfully....continuing test
+22700 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+23069 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+1    [main] INFO  INFO  - ****Execution for Sina started****
+251  [main] INFO  INFO  - Sina home page logo verification is done successfully....continuing test
+3041 [main] INFO  INFO  - Click Site Navigation is done successfully....continuing test
+30190 [main] INFO  INFO  - Sina logo check after Site Navigation link click is done successfully....continuing test
+35986 [main] INFO  INFO  - Click NBA is done successfully....continuing test
+58827 [main] INFO  INFO  - NBA options verification is done successfully....continuing test
+61557 [main] INFO  INFO  - Click Car is done successfully....continuing test
+93198 [main] INFO  INFO  - Car options verification is done successfully....continuing test
+106694 [main] INFO  INFO  - Site navigation page verification post ALT+Left keypress is done successfully....continuing test
+1    [main] INFO  INFO  - ****Execution for Sohu started****
+460  [main] INFO  INFO  - Sohu favicon verification is done successfully....continuing test
+3348 [main] INFO  INFO  - Sohu logo verification is done successfully....continuing test
+8092 [main] INFO  INFO  - Click tourism is done successfully....continuing test
+34210 [main] INFO  INFO  - Sohu-tourism site favicon verifiation is done successfully....continuing test
+36982 [main] INFO  INFO  - Sohu-tourism logo verification is done successfully....continuing test
+67788 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+74416 [main] INFO  INFO  - Sohu-tourism site favicon verifiation is done successfully....continuing test
+77175 [main] INFO  INFO  - Sohu tourism home page verification is done successfully....continuing test
+91721 [main] INFO  INFO  - Sohu favicon verification is done successfully....continuing test
+95234 [main] INFO  INFO  - Navigation back to Sohu home page verification is done successfully....continuing test
+97786 [main] INFO  INFO  - ****Execution for the current Test Case: Sohu Completed****
+0    [main] INFO  INFO  - ****Execution for So started****
+392  [main] INFO  INFO  - So favicon verification is done successfully....continuing test
+3248 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+5973 [main] INFO  INFO  - Click Wikipedia option is done successfully....continuing test
+18432 [main] INFO  INFO  - Wikipedia option click is done successfully....continuing test
+21139 [main] INFO  INFO  - Click Web option is done successfully....continuing test
+33586 [main] INFO  INFO  - Web - 360 navigation is done successfully....continuing test
+36278 [main] INFO  INFO  - Click News is done successfully....continuing test
+53779 [main] INFO  INFO  - News logo is done successfully....continuing test
+56345 [main] INFO  INFO  - ****Execution for the current Test Case: So Completed****
+0    [main] INFO  INFO  - ****Execution for So started****
+243  [main] INFO  INFO  - So favicon verification is done successfully....continuing test
+3135 [main] INFO  INFO  - Footer verification is done successfully....continuing test
+5837 [main] INFO  INFO  - Click Wikipedia option is done successfully....continuing test
+18338 [main] INFO  INFO  - Wikipedia option click is done successfully....continuing test
+21011 [main] INFO  INFO  - Click Web option is done successfully....continuing test
+33463 [main] INFO  INFO  - Web - 360 navigation is done successfully....continuing test
+36153 [main] INFO  INFO  - Click News is done successfully....continuing test
+51457 [main] INFO  INFO  - News logo is done successfully....continuing test
+54012 [main] INFO  INFO  - ****Execution for the current Test Case: So Completed****
+1    [main] INFO  INFO  - ****Execution for Taobao started****
+280  [main] INFO  INFO  - Verify home page is done successfully....continuing test
+3035 [main] INFO  INFO  - Click Dresses is done successfully....continuing test
+20321 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+20713 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for Three60 started****
+25   [main] INFO  INFO  - 360 navigation is done successfully....continuing test
+259  [main] INFO  INFO  - Verify 360 home page load is done successfully....continuing test
+3231 [main] INFO  INFO  - Mouse hover mobile applications is done successfully....continuing test
+26590 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+26590 [main] ERROR ERROR  - Verify mobile applications options failed....stopping test
+47069 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+47299 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for Three60 started****
+10   [main] INFO  INFO  - 360 navigation is done successfully....continuing test
+3181 [main] INFO  INFO  - Verify 360 home page load is done successfully....continuing test
+6394 [main] INFO  INFO  - Mouse hover mobile applications is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for Three60 started****
+21   [main] INFO  INFO  - 360 navigation is done successfully....continuing test
+256  [main] INFO  INFO  - Verify 360 home page load is done successfully....continuing test
+3268 [main] INFO  INFO  - Mouse hover mobile applications is done successfully....continuing test
+26873 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+26873 [main] ERROR ERROR  - Verify mobile applications options failed....stopping test
+47427 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+47723 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for ? Job Search India | one search. all jobs. Indeed started****
+16   [main] INFO  INFO  - Job Search navigation is done successfully....continuing test
+455  [main] INFO  INFO  - Click Indeed US link is done successfully....continuing test
+10087 [main] INFO  INFO  - Indeed logo verification is done successfully....continuing test
+12892 [main] INFO  INFO  - Click Find Jobs is done successfully....continuing test
+22567 [main] INFO  INFO  - Enter automation tester is done successfully....continuing test
+36891 [main] INFO  INFO  - Click where is done successfully....continuing test
+54814 [main] INFO  INFO  - Automation Tester Jobs navigation is done successfully....continuing test
+55100 [main] INFO  INFO  - Click Full Time is done successfully....continuing test
+66727 [main] INFO  INFO  - Job type filter as Full Time validation is done successfully....continuing test
+69517 [main] INFO  INFO  - Click Find Resume link is done successfully....continuing test
+81881 [main] INFO  INFO  - Indeed Resume Search navigation is done successfully....continuing test
+82305 [main] INFO  INFO  - Enter automation tester is done successfully....continuing test
+96767 [main] INFO  INFO  - Click where is done successfully....continuing test
+114958 [main] INFO  INFO  - Automation Tester- San Ramon resume search verification is done successfully....continuing test
+117731 [main] INFO  INFO  - Click Employers is done successfully....continuing test
+127355 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+127355 [main] ERROR ERROR  - Post a Job navigation is failed....stoping test
+127355 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+127628 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+1    [main] INFO  INFO  - ****Execution for ? Job Search | one search. all jobs. Indeed.com started****
+15   [main] INFO  INFO  - Job Search navigation is done successfully....continuing test
+20587 [main] INFO  INFO  - Indeed logo verification is done successfully....continuing test
+23393 [main] INFO  INFO  - Click Find Jobs is done successfully....continuing test
+32960 [main] INFO  INFO  - Enter automation tester is done successfully....continuing test
+47398 [main] INFO  INFO  - Click where is done successfully....continuing test
+65361 [main] INFO  INFO  - Automation Tester Jobs navigation is done successfully....continuing test
+66653 [main] INFO  INFO  - Click Full Time is done successfully....continuing test
+78201 [main] INFO  INFO  - Job type filter as Full Time validation is done successfully....continuing test
+81026 [main] INFO  INFO  - Click Find Resume link is done successfully....continuing test
+93383 [main] INFO  INFO  - Indeed Resume Search navigation is done successfully....continuing test
+93775 [main] INFO  INFO  - Enter automation tester is done successfully....continuing test
+108230 [main] INFO  INFO  - Click where is done successfully....continuing test
+126358 [main] INFO  INFO  - Automation Tester- San Ramon resume search verification is done successfully....continuing test
+129192 [main] INFO  INFO  - Click Employers is done successfully....continuing test
+138813 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+138813 [main] ERROR ERROR  - Post a Job navigation is failed....stoping test
+138813 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+139145 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
